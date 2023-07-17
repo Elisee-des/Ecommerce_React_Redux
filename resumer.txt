@@ -1,0 +1,8 @@
+mt margin       top
+mb              margin bottom
+flex-column
+d-flex          display flex
+fs-4            font-size
+text-white
+align-items-center
+py-2

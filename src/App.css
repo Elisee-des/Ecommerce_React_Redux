@@ -6,6 +6,7 @@
 
 :root {
   --color-131921: #131921;
+  --color-232f3e: #232f3e;
   --color-3b4149: #3b4149;
   --color-febd69: #febd69;
 }
@@ -92,3 +93,22 @@ a {
 }
 
 /* Header part end */
+
+
+/* Footer part start */
+
+footer {
+  background-color: var(--color-232f3e);
+}
+
+footer:not(:first-child)
+{
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+footer .input-group-text {
+  background-color: var(--color-232f3e);
+  color: white;
+  padding: 8px 17px;
+}
+/* Footer part end */
