@@ -44,29 +44,29 @@ const Footer = () => {
                                 <a href="tel:+226 56124578" className="mt-2 d-block mb-3 text-white">+226 56124578</a>
                                 <a href="mailto:esabidani@gmail.com" className="mt-2 d-block mb-0 text-white">esabidani@gmail.com</a>
                                 <div className="social_icons align-items-center d-flex gap-30 mt-3">
-                                    <a className="text-white" href="">
+                                    <a className="text-white" href="#">
                                         <BsGithub className='fs-4' />
                                     </a>
-                                    <a className="text-white" href="">
+                                    <a className="text-white" href="#">
                                         <BsYoutube className='fs-4' />
                                     </a>
-                                    <a className="text-white" href="">
+                                    <a className="text-white" href="#">
                                         <BsLinkedin className='fs-4' />
                                     </a>
-                                    <a className="text-white" href="">
-                                        <BsInstagram className='fs-4' />
+                                    <a className="text-white" href="#">
+                                         <BsInstagram className='fs-4' />
                                     </a>
                                 </div>
                             </div>
                         </div>
                         <div className="col-3">
-                            <h4 className='text-white mb-4'>inforations</h4>
+                            <h4 className='text-white mb-4'>Informations</h4>
                             <div className="footer-links d-flex flex-column">
-                                <Link className="text-white py-2 mb-1">Privacy policy</Link>
-                                <Link className="text-white py-2 mb-1">Refund policy</Link>
-                                <Link className="text-white py-2 mb-1">Shipping Policy</Link>
-                                <Link className="text-white py-2 mb-1">Terms & Conditions</Link>
-                                <Link className="text-white py-2 mb-1">Blogs</Link>
+                                <Link className="text-white py-2 mb-1" to="">Privacy policy</Link>
+                                <Link className="text-white py-2 mb-1" to="">Refund policy</Link>
+                                <Link className="text-white py-2 mb-1" to="">Shipping Policy</Link>
+                                <Link className="text-white py-2 mb-1" to="">Terms & Conditions</Link>
+                                <Link className="text-white py-2 mb-1" to="">Blogs</Link>
                             </div>
                         </div>
                         <div className="col-3">

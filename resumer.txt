@@ -1,8 +1,11 @@
-mt margin       top
-mb              margin bottom
+mt margin               top
+mb                      margin bottom
 flex-column
-d-flex          display flex
-fs-4            font-size
+d-flex                  display flex
+fs-4                    font-size
 text-white
 align-items-center
 py-2
+img-fluid rounded-3     for image
+flew-wrap               pour plusieur element dans la liste
+mx-3                    indique la marge horizontal
