@@ -1,7 +1,6 @@
 import React from "react";
 import BreadCrumb from "../components/BreadCrumb";
 import { HiOutlineMail, HiOutlineHome, HiPhoneIncoming, HiInformationCircle } from "react-icons/hi";
-
 import Meta from "../components/Meta";
 
 const Contact = () => {
