@@ -18,6 +18,7 @@ function App() {
           <Route path="contact" element={<Contact />} />
           <Route path="store" element={<OurStorie />} />
           <Route path="blogs" element={<Blog />} />
+          <Route path="contact" element={<Contact />} />
         </Route>
       </Routes>
       </BrowserRouter>    
