@@ -9,3 +9,4 @@ py-2
 img-fluid rounded-3     for image
 flew-wrap               pour plusieur element dans la liste
 mx-3                    indique la marge horizontal
+gap-10                  pour espace
