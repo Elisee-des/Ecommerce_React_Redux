@@ -629,10 +629,10 @@ np
   color: var(--color-777777);
 }
 
-.auth-card .from-control{
+.auth-card .form-control{
   height: 50px;
   background-color: var(--color-f5f5f7);
-  color: var(--color-777777);
+  color: var(--color-131921);
   font-size: 14px;
   border-radius: 10px;
   border-color: transparent;
@@ -648,6 +648,12 @@ np
   background-color: var(--color-febd69);
   color: var(--color-131921);
 }
+
+.auth-card p{
+  font-size: 13px;
+  color: var(--color-777777);
+}
+
 
 .auth-card .signup:hover{
   background-color: var(--color-131921);
