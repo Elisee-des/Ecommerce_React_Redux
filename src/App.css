@@ -872,4 +872,8 @@ h5 {
   color: var(--color-777777);
 }
 
+.checkout-wrapper-1 {
+  border-right: 1px solid #eaeaea;
+}
+
 /* Shipping part end */

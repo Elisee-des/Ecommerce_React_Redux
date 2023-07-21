@@ -12,7 +12,7 @@ const Checkout = () => {
       <div className="checkout-wrapper home-wrapper-2 py-5">
         <div className="container-xxl">
           <div className="row">
-            <div className="col-7 p-3 bg-white">
+            <div className="col-7 checkout-wrapper-1 p-3 bg-white">
               <div className="checkout-left-data">
                 <h3 className="website-name">Dev Corner</h3>
                 <nav aria-label="breadcrumb">

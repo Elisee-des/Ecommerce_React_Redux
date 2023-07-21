@@ -14,3 +14,4 @@ ms-5                    distance entre les elements de gauche a droite
 gap-10                  pour espace
 flex-column
 border-0
+flex-grow-1
