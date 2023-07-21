@@ -5,10 +5,12 @@ d-flex                  display flex
 fs-4                    font-size
 text-white
 align-items-center
-py-2
+py-2                    distance entre les elements de haut en bas
 img-fluid rounded-3     for image
 flew-wrap               pour plusieur element dans la liste
 mx-3                    indique la marge horizontal
+my-3
+ms-5                    distance entre les elements de gauche a droite
 gap-10                  pour espace
 flex-column
 border-0
